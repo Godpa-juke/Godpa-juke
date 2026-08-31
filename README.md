@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=120&text=Hi,%20I'm%20Jiwook%20👋&fontColor=000000&fontSize=60" />
-</div>
+# Hi, I'm Jiwook Sung 👋
+
+Currently working at **SK Inc. AX** as a Software & Digital Twin Engineer.
 
 ## Robotics, Digital Twins & Real-World Autonomy
 
